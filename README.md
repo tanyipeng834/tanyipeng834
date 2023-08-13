@@ -2,6 +2,7 @@
 <h3 align="center">Year 3 Information Systems Student at Singapore Management University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanyipeng834&label=Profile%20views&color=0e75b6&style=flat" alt="tanyipeng834" /> </p>
+<img align="center" src ="./programming.gif/>
 
 
 
