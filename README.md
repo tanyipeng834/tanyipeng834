@@ -40,7 +40,6 @@
 
 <sup>Frontend</sup><br/>
 ![React](https://img.shields.io/badge/-React-122f44?&logo=React)
-![Next.js](https://img.shields.io/badge/-Next.js-122f44?&logo=Next.js)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-122f44?&logo=Vue.js)
 
 <sup>Backend & Database</sup><br/>
