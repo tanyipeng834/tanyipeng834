@@ -34,7 +34,7 @@
 
 <sup>Languages</sup><br/>
 ![Python](https://img.shields.io/badge/-Python-122f44?&logo=Python)
-![Node](https://img.shields.io/badge/-Typescript-122f44?&logo=Typescript)
+![Javascript](https://img.shields.io/badge/-Javascript-122f44?&logo=Javascript)
 ![PHP](https://img.shields.io/badge/-PHP-122f44?&logo=PHP)
 ![Java](https://img.shields.io/badge/-Java-122f44?&logo=openjdk)
 
