@@ -1,11 +1,20 @@
 <h1 align="center">Hi 👋, I'm Tan Yi Peng</h1>
 <h3 align="center">Year 3 Information Systems Student at Singapore Management University</h3>
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanyipeng834&label=Profile%20views&color=0e75b6&style=flat" alt="tanyipeng834" /> </p>
 
 <div align="center">
+ 
+
 
   <img align="center" src ="./programming.gif"/>
+  <br>
+  <br>
+  <br>
+
+   <img src="https://leetcard.jacoblin.cool/yipengtan" alt="Leetcode Stats">
 </div>
 
 
