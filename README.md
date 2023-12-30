@@ -20,11 +20,11 @@
 
 
 
-- 🔭 I’m currently working on **Machine Learning algorithms to predict human-perceivable permissions on widgets of Android Applications.**
+- 🔭 I’m currently working on **becoming a competent Cloud/Devops Engineer**
 
-- 🌱 I’m currently learning **Front-end Development and Machine Learning**
+- 🌱 I’m currently learning **Terraform and hope to attain the Terraform Associate Certfication**
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
+- 👯 I’m looking to collaborate on **building scalable and reliable systems on the Cloud **
 
 - 👨‍💻 All of my projects are available at [https://yipeng-portfolio.vercel.app/](https://yipeng-portfolio.vercel.app/)
 
@@ -56,7 +56,7 @@
 ![Express.js](https://img.shields.io/badge/-Express-122f44?&logo=Express)
 ![Spring](https://img.shields.io/badge/-Spring-122f44?&logo=Spring)
 ![MySQL](https://img.shields.io/badge/-MySQL-122f44?&logo=MySQL)
-![DynamoDB](https://img.shields.io/badge/-DynamoDB-122f44?&logo=Amazon%20DynamoDB)
+
 
 <sup>Cloud & Infrastructure</sup><br/>
 ![AWS](https://img.shields.io/badge/-AWS-122f44?&logo=Amazon-AWS)
