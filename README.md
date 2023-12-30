@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently learning **Terraform and hope to attain the Terraform Associate Certfication**
 
-- 👯 I’m looking to collaborate on **building scalable and reliable systems on the Cloud **
+- 👯 I’m looking to collaborate on **building scalable and reliable systems on the Cloud**
 
 - 👨‍💻 All of my projects are available at [https://yipeng-portfolio.vercel.app/](https://yipeng-portfolio.vercel.app/)
 
