@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently working on **becoming a competent Cloud/Devops Engineer**
 
-- 🌱 I’m currently learning **Terraform and hope to attain the Terraform Associate Certfication**
+- 🌱 I’m currently learning **Terraform and Data Structure and Algorithms**
 
 - 👯 I’m looking to collaborate on **building scalable and reliable systems on the Cloud**
 
