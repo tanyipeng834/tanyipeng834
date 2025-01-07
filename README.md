@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tan Yi Peng</h1>
-<h3 align="center">Year 3 Information Systems Student at Singapore Management University</h3>
+<h3 align="center">Year 4 Information Systems Student at Singapore Management University</h3>
 
 
 
@@ -20,11 +20,11 @@
 
 
 
-- 🔭 I’m currently working on **becoming a competent Cloud/Devops Engineer**
+- 🔭 I’m currently working on **becoming a competent DevSecOps  Engineer**
 
-- 🌱 I’m currently learning **Terraform and Data Structure and Algorithms**
+- 🌱 I’m currently learning **C Programming for Systems Programming **
 
-- 👯 I’m looking to collaborate on **building scalable and reliable systems on the Cloud**
+- 👯 I’m looking to collaborate on **building scalable,reliable and secure systems on the Cloud**
 
 - 👨‍💻 All of my projects are available at [https://yipeng-portfolio.vercel.app/](https://yipeng-portfolio.vercel.app/)
 
