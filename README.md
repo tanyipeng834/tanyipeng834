@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently working on **becoming a competent DevSecOps  Engineer**
 
-- 🌱 I’m currently learning **C Programming for Systems Programming **
+- 🌱 I’m currently learning **C Programming for Systems Programming**
 
 - 👯 I’m looking to collaborate on **building scalable,reliable and secure systems on the Cloud**
 
